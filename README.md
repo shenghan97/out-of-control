@@ -11,12 +11,12 @@ A interactive film utilizing Tobii's eye-tracking technology
 - Tobii SDK
 
 ## Core Features
-### Video Blending - BlendShader.shader
+### Video Blending - `BlendShader.shader`
 There are two types of videos: background and objects. 
 
 <!--<img src="./.README-resources/video.gif">-->
 Videos in each scene is multi-layered. _BlendShader.shader_ is to blend the background with particular objects into single video texture.
-### Blur Effects - Blur.shader
+### Blur Effects - `Blur.shader`
 Blur the video texture to mimic depth of filed effects.
 ### Colliders Animation - `class Enlarge, EnlargeString`
 Since the objects is animated, the colliders of it must be animated as well.
