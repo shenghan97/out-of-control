@@ -25,3 +25,11 @@ To determine which object video should be played, a dynamic video selection is u
 
 <img src="./.README-resources/sample.gif" width="500">
 
+## Video Demo
+https://youtu.be/tmn7GfQjc28
+
+
+## Team members:
+- Shenghan Gao (me) - interaction design and development
+- Dongqi Shen - filming, concepts, screenwriting
+- Xinlei Liu, Zhou Wei - actor/ actress
